@@ -14,12 +14,12 @@ MIPO (Mini IPO) — Web3 crowdfunding platform for tokenizing Real World Assets 
 
 | Contract | Address | Explorer |
 |---|---|---|
-| MIPOToken | 0x0ab6d4addde26728189efa4bb1b35df9e7f4c2ee | https://explorer.testnet.arc.io/address/0x0ab6d4addde26728189efa4bb1b35df9e7f4c2ee |
-| MIPOStaking | 0x8ac2b0eec3ea9e9988279c6fe1ea04e82ce704a5 | https://explorer.testnet.arc.io/address/0x8ac2b0eec3ea9e9988279c6fe1ea04e82ce704a5 |
-| MIPODividend | 0xae47e5118e2db804cb237895c8e44a5ccafab7c3 | https://explorer.testnet.arc.io/address/0xae47e5118e2db804cb237895c8e44a5ccafab7c3 |
+| MIPOToken | 0x8e926193c475920cd78aa41e28ee7b9d16acb4ad | https://explorer.testnet.arc.io/address/0x8e926193c475920cd78aa41e28ee7b9d16acb4ad |
+| MIPOStaking | 0xf072bea72cd3c61256f3d72ede43f11db3a200ee | https://explorer.testnet.arc.io/address/0xf072bea72cd3c61256f3d72ede43f11db3a200ee |
+| MIPODividend | 0x171a704133368b36a65b48028125a5d4e428b2fa | https://explorer.testnet.arc.io/address/0x171a704133368b36a65b48028125a5d4e428b2fa |
 
 - USDC (Arc Testnet): 0x3600000000000000000000000000000000000000
-- Platform/Deployer wallet: 0x5B12Ce46C7194aD57d143bC22847224047b1Ef42
+- Platform/Owner wallet: 0x1034BceB7732C3ea1F08d6e33aeEE3388656b2cC (walletmu — admin semua fungsi)
 - Token: 1,000,000 MIPO | Price: 1 USDC/token | Lock: 90 days | Fees: 1% stake / 0.5% unstake / 0.5% transfer
 
 ## Tech Stack

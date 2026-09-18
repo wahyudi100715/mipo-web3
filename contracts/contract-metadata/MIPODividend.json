@@ -1,13 +1,20 @@
 {
-  "contractAddress": "0xae47e5118e2db804cb237895c8e44a5ccafab7c3",
+  "contractAddress": "0x171a704133368b36a65b48028125a5d4e428b2fa",
   "network": "ARC-TESTNET",
   "deployerWalletId": "3c2464b2-8369-52e2-a782-800bbeca5396",
   "contract_code_path": "/home/user/app/contracts/MIPODividend.sol",
   "contract_compiled_code_path": "/home/user/app/contracts/out/MIPODividend.sol/MIPODividend.json",
   "contract_network_and_links": {
-    "Arc Testnet": "https://explorer.testnet.arc.io/address/0xae47e5118e2db804cb237895c8e44a5ccafab7c3"
+    "Arc Testnet": "https://explorer.testnet.arc.io/address/0x171a704133368b36a65b48028125a5d4e428b2fa"
   },
   "contract_deployments": [
+    {
+      "chain": "Arc Testnet",
+      "address": "0x171a704133368b36a65b48028125a5d4e428b2fa",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0x171a704133368b36a65b48028125a5d4e428b2fa",
+      "txHash": "0xcbd9adab20daed823518abb30febbfb76d09b37998eede6a16ec6cc7b9273c7d",
+      "deployedAt": "2026-09-18T15:12:50.713Z"
+    },
     {
       "chain": "Arc Testnet",
       "address": "0xae47e5118e2db804cb237895c8e44a5ccafab7c3",

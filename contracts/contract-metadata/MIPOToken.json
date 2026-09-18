@@ -1,13 +1,20 @@
 {
-  "contractAddress": "0x0ab6d4addde26728189efa4bb1b35df9e7f4c2ee",
+  "contractAddress": "0x8e926193c475920cd78aa41e28ee7b9d16acb4ad",
   "network": "ARC-TESTNET",
   "deployerWalletId": "3c2464b2-8369-52e2-a782-800bbeca5396",
   "contract_code_path": "/home/user/app/contracts/MIPOToken.sol",
   "contract_compiled_code_path": "/home/user/app/contracts/out/MIPOToken.sol/MIPOToken.json",
   "contract_network_and_links": {
-    "Arc Testnet": "https://explorer.testnet.arc.io/address/0x0ab6d4addde26728189efa4bb1b35df9e7f4c2ee"
+    "Arc Testnet": "https://explorer.testnet.arc.io/address/0x8e926193c475920cd78aa41e28ee7b9d16acb4ad"
   },
   "contract_deployments": [
+    {
+      "chain": "Arc Testnet",
+      "address": "0x8e926193c475920cd78aa41e28ee7b9d16acb4ad",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0x8e926193c475920cd78aa41e28ee7b9d16acb4ad",
+      "txHash": "0x267c0f852cdad233bb029fd172c2d9b3a9f479ea8904d13bdbcb2682b3de8165",
+      "deployedAt": "2026-09-18T15:12:18.428Z"
+    },
     {
       "chain": "Arc Testnet",
       "address": "0x0ab6d4addde26728189efa4bb1b35df9e7f4c2ee",

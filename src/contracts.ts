@@ -8,19 +8,19 @@ import mipoStakingArtifact from '../contracts/out/MIPOStaking.sol/MIPOStaking.js
 import mipoConvertedArtifact from '../contracts/out/MIPODividend.sol/MIPODividend.json'
 
 export const MIPO_TOKEN = {
-  address: '0x0ab6d4addde26728189efa4bb1b35df9e7f4c2ee' as `0x${string}`,
+  address: '0x8e926193c475920cd78aa41e28ee7b9d16acb4ad' as `0x${string}`,
   abi: mipoTokenArtifact.abi,
 } as const
 
 export const MIPO_STAKING = {
-  address: '0x8ac2b0eec3ea9e9988279c6fe1ea04e82ce704a5' as `0x${string}`,
+  address: '0xf072bea72cd3c61256f3d72ede43f11db3a200ee' as `0x${string}`,
   abi: mipoStakingArtifact.abi,
 } as const
 
 export const MIPO_DIVIDEND = {
-  address: '0xae47e5118e2db804cb237895c8e44a5ccafab7c3' as `0x${string}`,
+  address: '0x171a704133368b36a65b48028125a5d4e428b2fa' as `0x${string}`,
   abi: mipoConvertedArtifact.abi,
 } as const
 
-export const PLATFORM_WALLET = '0x5B12Ce46C7194aD57d143bC22847224047b1Ef42' as `0x${string}`
+export const PLATFORM_WALLET = '0x1034BceB7732C3ea1F08d6e33aeEE3388656b2cC' as `0x${string}`
 export const ARC_TESTNET_CHAIN_ID = 5042002
