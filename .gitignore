@@ -1,0 +1,1 @@
+node_modules/\n.env\n.env.*\n!.env.example\ncontracts/out/\ncontracts/cache/\n.circle/\ndist/
