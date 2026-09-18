@@ -6,6 +6,7 @@ import { LayoutDashboard, Lock, Gift, ShieldCheck, ExternalLink } from 'lucide-r
 import { TokenUSDC } from '@web3icons/react'
 
 import { PortfolioStats } from '@/components/PortfolioStats'
+import { BuyPanel } from '@/components/BuyPanel'
 import { StakePanel } from '@/components/StakePanel'
 import { DividendPanel } from '@/components/DividendPanel'
 import { AdminPanel } from '@/components/AdminPanel'
@@ -104,6 +105,7 @@ export default function App() {
               <div className="space-y-4">
                 <div className="text-xs font-semibold uppercase tracking-widest text-slate-500 px-1">Portfolio Kamu</div>
                 <PortfolioStats />
+                <BuyPanel />
                 <div className="rounded-2xl bg-white/60 border border-slate-200/60 backdrop-blur-sm p-4 space-y-2.5">
                   <div className="text-xs font-semibold uppercase tracking-widest text-slate-500">Info Token MIPO Demo</div>
                   <div className="grid grid-cols-2 gap-3 text-xs">
